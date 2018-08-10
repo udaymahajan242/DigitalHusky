@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DigitalHusky</string>
+
+    <string name="text_home">Home</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_scan">Scan</string>
+    <string name="text_accounts">Accounts</string>
+
 </resources>
